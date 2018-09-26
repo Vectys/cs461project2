@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\prima\source\repos\cs461project2\cs461project2\source.cpp(7): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CS461Project2.vcxproj -> C:\Users\Prima\source\repos\CS461Project2\x64\Debug\CS461Project2.exe
