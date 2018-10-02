@@ -1,0 +1,7 @@
+﻿  Source.cpp
+e:\docs\github\cs461project2\source.cpp(12): warning C4326: return type of 'main' should be 'int' instead of 'void'
+e:\docs\github\cs461project2\source.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\docs\github\cs461project2\source.cpp(43): warning C4018: '<': signed/unsigned mismatch
+e:\docs\github\cs461project2\source.cpp(186): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\docs\github\cs461project2\source.cpp(243): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  CS461Project2.vcxproj -> E:\docs\GitHub\cs461project2\Debug\CS461Project2.exe
